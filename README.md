@@ -1,6 +1,6 @@
 # Citibike Data Preparation for Tableau
 
-This code is used to prepare Citibike trip data from January 2019 to December 2022 for visualization in Tableau. The original data is in separate CSV files for each month, and the code reads, cleans, and combines the data to make it suitable for Tableau.
+This code is used to prepare Citibike trip data from January 2019 to December 2022 for visualization in Tableau (it can also be used for any other year of interest from CitiBikes public CVS files). The original data is in separate CSV files for each month, and the code reads, cleans, and combines the data to make it suitable for Tableau.
 
 ## Steps
 
